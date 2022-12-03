@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee Shifts</string>
+    <string name="coffee_shifts_title">Coffee Co Shifts</string>
+    <string name="add_shifts">Add Shifts</string>
+    <string name="composite_title">%s (%s) %s</string>
+    <string name="save">Save</string>
+    <string name="create_shift">Create a Shift</string>
+    <string name="employee">Employee</string>
+    <string name="role">Role</string>
+    <string name="color">Color</string>
+    <string name="start_date_hint">Enter start date</string>
+    <string name="end_date_hint">Enter end date</string>
+    <string name="not_valid_shift">Please, enter missing inputs</string>
+    <string name="add_start_date">Add Start Date</string>
+    <string name="add_end_date">Add End Date</string>
+</resources>
